@@ -1,3 +1,1 @@
-##git ignore files##
-_book
-.DS_Store
+/bak/
