@@ -6,8 +6,7 @@
 >
 > 您需要安装Postgres，或Oracle，或MySQL；不必都安装。推荐您使用MySQL。
 
-
-
+<br/>
 > **[warning] 警告**
 >
 > 如果您安装Postgres，您必须安装Postgres 9.5或者更高的版本以供SAM和Schema Registry使用。Ambari默认不安装Postgres 9.5，所以您必须手动安装。
