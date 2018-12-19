@@ -10,3 +10,7 @@
 
 `ulimit -n 10000`
 
+## More Information
+
+[ulimit详解](https://www.jianshu.com/p/b4aadb88b19a)
+
