@@ -8,7 +8,7 @@
 
 1. 打开文件并更新以下内容：
 
-   ```text
+   ```xml
    # "local" is for Unix domain socket connections only
    local all all trust
    
@@ -23,7 +23,7 @@
 
 2. 打开文件更新以下内容：
 
-   ```text
+   ```xml
    listen_addresses = '*'
    ```
 
