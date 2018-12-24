@@ -12,10 +12,8 @@
    # "local" is for Unix domain socket connections only
    local all all trust
    
-   
    # IPv4 local connections:
    host all all 0.0.0.0/0 trust
-   
    
    # IPv6 local connections:
    host all all ::/0 trust
